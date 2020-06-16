@@ -2,7 +2,7 @@ covid = csvread('matlab_covid_mortality.csv',1,0);
 
 [N1 N2]=size(covid);
 
-bins=9;
+bins=8;
 T=N2;
 
 output1=[];
