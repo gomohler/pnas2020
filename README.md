@@ -12,3 +12,7 @@ Comparison to SIR/SEIR
 
 1.  Run model_compare.R to create sir/seir data for table 1 in the paper.
 
+Country level dynamic R estimate
+
+1. Code located in dynamic_R folder (run create_data_updated.R followed by run_all_updated.m)
+
