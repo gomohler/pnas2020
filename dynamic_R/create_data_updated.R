@@ -1,4 +1,4 @@
-setwd("~/Dropbox/coronavirus_hawkes")
+setwd("set to working directory")
 
 library(tidyr)
 
